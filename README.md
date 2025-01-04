@@ -4,8 +4,8 @@
 <h3 align="center">Passionate Frontend Developer | React Enthusiast</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=haqdadkhan&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" /> 
-  <img src="https://img.shields.io/github/followers/haqdadkhan?style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=haqdad-khan&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" /> 
+  <img src="https://img.shields.io/github/followers/haqdad-khan?style=social" alt="GitHub Followers" />
 </p>
 
 <!-- --- -->
@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=haqdadkhan&margin-w=10&theme=tokyonight" 
+    <img src="https://github-profile-trophy.vercel.app/?username=haqdad-khan&margin-w=10&theme=tokyonight" 
          alt="GitHub Trophies" 
          style="border-radius: 10px;  box-shadow: 0 0 15px rgba(72, 116, 236, 0.7);"/>
   </a>
@@ -73,7 +73,7 @@
   - Built with **React** and **TailwindCSS**.  
   - Features responsive design and project showcase.  
 
-<!-- - **[📦 Task Manager](https://github.com/haqdadkhan/task-manager):**  
+<!-- - **[📦 Task Manager](https://github.com/haqdad-khan/task-manager):**  
   - A **MERN Stack** app to simplify task organization.  
   - Includes authentication, CRUD operations, and dynamic dashboards. -->
 
@@ -82,12 +82,12 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haqdadkhan&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="margin:5px; width:400px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=haqdadkhan&theme=tokyonight" alt="GitHub Streak" style="margin:5px; width:423px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haqdad-khan&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="margin:5px; width:400px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=haqdad-khan&theme=tokyonight" alt="GitHub Streak" style="margin:5px; width:423px;" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haqdadkhan&layout=compact&theme=tokyonight" alt="Top Languages" style="margin:5px; width:340px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haqdad-khan&layout=compact&theme=tokyonight" alt="Top Languages" style="margin:5px; width:340px;"/>
 </p>
 
 ---
@@ -95,7 +95,7 @@
 ## 🤝 Connect with Me:
 
 <p align="center">
-  <a href="https://linkedin.com/in/haqdadkhan" target="_blank">
+  <a href="https://linkedin.com/in/haqdad-khan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://stackoverflow.com/users/21807502" target="_blank">
