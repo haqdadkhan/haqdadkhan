@@ -34,27 +34,13 @@
   <img src="https://img.shields.io/badge/Figma-F2a4E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-##  Soft Skills:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Adaptability-FFC107?style=for-the-badge&logoColor=white" alt="Adaptability" />
-  <img src="https://img.shields.io/badge/Communication-4CAF50?style=for-the-badge&logoColor=white" alt="Communication" />
-  <img src="https://img.shields.io/badge/Attention%20to%20Detail-2196F3?style=for-the-badge&logoColor=white" alt="Attention to Detail" />
-  <img src="https://img.shields.io/badge/Time%20Management-FF5722?style=for-the-badge&logoColor=white" alt="Time Management" />
-</p>
-
-
 ---
 
 ##  Projects:
 
-- **[ Portfolio](https://haqdad.vercel.app):**  
+- **[ Repowr](https://repowr-by-haqdad.vercel.app):**  
   - Built with **React** and **TailwindCSS**.  
-  - Features responsive design and project showcase.  
-
-<!-- - **[📦 Task Manager](https://github.com/haqdad-khan/task-manager):**  
-  - A **MERN Stack** app to simplify task organization.  
-  - Includes authentication, CRUD operations, and dynamic dashboards. -->
+  - Features responsive design and SPA UI.  
 
 ---
 
@@ -62,7 +48,6 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=haqdad-khan&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="margin:5px; width:400px;" />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=haqdad-khan&theme=tokyonight" alt="GitHub Streak" style="margin:5px; width:423px;" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haqdad-khan&layout=compact&theme=tokyonight" alt="Top Languages" style="margin:5px; width:358px;"/>
 </p>
 
