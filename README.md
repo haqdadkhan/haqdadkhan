@@ -1,38 +1,17 @@
 <img src="./animated-banner.gif"/>
 
-<h1 align="center">Hi 👋, I'm Haqdad Khan</h1>
-<h3 align="center">Passionate Frontend Developer | React Enthusiast</h3>
+<h1 align="center">Hi there 👋, Welcome to my GitHub page!</h1>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=haqdad-khan&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" /> 
-  <img src="https://img.shields.io/github/followers/haqdad-khan?style=social" alt="GitHub Followers" />
-</p>
-
-<!-- --- -->
-&nbsp;
-<!-- ## 🏆 GitHub Trophies -->
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=haqdad-khan&margin-w=10&theme=tokyonight" 
-         alt="GitHub Trophies" 
-         style="border-radius: 10px;  box-shadow: 0 0 15px rgba(72, 116, 236, 0.7);"/>
-  </a>
-</p>
+- I'm **Haqdad Khan**, a Software Developer working in various domains like full-stack, frontend, and backend development.
+-  Currently learning **MERN Stack** through the [IBM Full-Stack Developer - Specialization](https://www.coursera.org/professional-certificates/ibm-full-stack-javascript-developer)
+-  Check out my repository for [AOS (Animation on Scroll)](https://github.com/Haqdad-Khan/aos)
+-  Open to collaborating on **Frontend Projects**
+-  Reach me: [Mail](mailto:hk.borikhelvi@gmail.com)
+<!-- - Explore my [Portfolio](https://haqdad.vercel.app) -->
 
 ---
 
-## 💻 About Me:
-
-- 🎓 Currently mastering **React JS** and exploring **React Ecosystem**.  
-- 🤝 Open to collaborating on **Frontend Projects**.  
-- 📫 Reach me: [Mail](mailto:hk.borikhelvi@gmail.com)  
-- ⚡ Fun fact: **I think I'm funny.**  
-- 🙂 Here's my [Portfolio](https://haqdad.vercel.app)
-
----
-
-## ⚙ Languages & Technologies:
+##  Languages & Technologies:
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
@@ -45,7 +24,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 </p>
 
-## 🛠 Tools:
+##  Tools:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -55,7 +34,7 @@
   <img src="https://img.shields.io/badge/Figma-F2a4E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-## 💼 Soft Skills:
+##  Soft Skills:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Adaptability-FFC107?style=for-the-badge&logoColor=white" alt="Adaptability" />
@@ -67,9 +46,9 @@
 
 ---
 
-## ✨ Featured Projects:
+##  Projects:
 
-- **[🏗️ Portfolio](https://haqdad.vercel.app):**  
+- **[ Portfolio](https://haqdad.vercel.app):**  
   - Built with **React** and **TailwindCSS**.  
   - Features responsive design and project showcase.  
 
@@ -79,22 +58,19 @@
 
 ---
 
-## 📊 GitHub Stats:
+##  GitHub Stats:
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=haqdad-khan&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="margin:5px; width:400px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=haqdad-khan&theme=tokyonight" alt="GitHub Streak" style="margin:5px; width:423px;" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haqdad-khan&layout=compact&theme=tokyonight" alt="Top Languages" style="margin:5px; width:340px;"/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=haqdad-khan&theme=tokyonight" alt="GitHub Streak" style="margin:5px; width:423px;" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haqdad-khan&layout=compact&theme=tokyonight" alt="Top Languages" style="margin:5px; width:358px;"/>
 </p>
 
 ---
 
-## 🤝 Connect with Me:
+##  Connect:
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/haqdad-khan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
