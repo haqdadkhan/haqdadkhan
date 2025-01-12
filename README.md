@@ -3,8 +3,9 @@
 <h1 align="center">Hi there 👋, Welcome to my GitHub page!</h1>
 
 - I'm **Haqdad Khan**, a Software Developer working in various domains like full-stack, frontend, and backend development.
--  Currently learning **MERN Stack** through the [IBM Full-Stack Developer - Specialization](https://www.coursera.org/professional-certificates/ibm-full-stack-javascript-developer)
--  Check out my repository for [AOS (Animation on Scroll)](https://github.com/Haqdad-Khan/aos)
+-  Currently learning **MERN Stack** through the <a href="https://www.coursera.org/professional-certificates/ibm-full-stack-javascript-developer" target="_blank">IBM Full-Stack Developer - Specialization</a>
+-  Check out my repo for course material and achievements [here](https://github.com/haqdadkhan/ibm-mern-stack-dev)
+-  Check out my repository for [AOS (Animation on Scroll)](https://github.com/haqdadkhan/aos)
 -  Open to collaborating on **Frontend Projects**
 -  Reach me: [Mail](mailto:hk.borikhelvi@gmail.com)
 <!-- - Explore my [Portfolio](https://haqdad.vercel.app) -->
@@ -38,7 +39,7 @@
 
 ##  Projects:
 
-- **[ Repowr](https://repowr-by-haqdad.vercel.app):**  
+- **<a href="https://repowr-by-haqdad.vercel.app" target="_blank">Repowr:</a>:**  
   - Built with **React** and **TailwindCSS**.  
   - Features responsive design and SPA UI.  
 
@@ -47,8 +48,8 @@
 ##  GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=haqdad-khan&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="margin:5px; width:400px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haqdad-khan&layout=compact&theme=tokyonight" alt="Top Languages" style="margin:5px; width:358px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=haqdadkhan&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="margin:5px; width:400px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haqdadkhan&layout=compact&theme=tokyonight" alt="Top Languages" style="margin:5px; width:358px;"/>
 </p>
 
 ---
@@ -56,7 +57,7 @@
 ##  Connect:
 
 <p align="left">
-  <a href="https://linkedin.com/in/haqdad-khan" target="_blank">
+  <a href="https://linkedin.com/in/haqdadkhan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://stackoverflow.com/users/21807502" target="_blank">
