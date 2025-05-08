@@ -41,7 +41,8 @@
 
 - **<a href="https://repowr-by-haqdad.vercel.app" target="_blank">Repowr:</a>:**  
   - Built with **React** and **TailwindCSS**.  
-  - Features responsive design and SPA UI.  
+  - Features responsive design and SPA UI.
+- **More Projects are coming...**
 
 ---
 
