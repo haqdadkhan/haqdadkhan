@@ -4,7 +4,7 @@
 
 - I'm **Haqdad Khan**, a Software Developer working in various domains like full-stack, frontend, and backend development.
 -  Currently learning **MERN Stack** through the <a href="https://www.coursera.org/professional-certificates/ibm-full-stack-javascript-developer" target="_blank">IBM Full-Stack JavaScript Developer - Specialization</a>
-<!-- -  Check out my repo for course material and achievements [here](https://github.com/haqdadkhan/ibm-mern-stack-dev) -->
+-  Check out my repo for course material and achievements [here](https://github.com/haqdadkhan/ibm-mern-stack-dev)
 -  Check out my repository for [AOS (Animation on Scroll)](https://github.com/haqdadkhan/aos)
 -  Open to collaborating on **Frontend Projects**
 -  Reach me: [Mail](mailto:haqdadkhan.dev@gmail.com)
